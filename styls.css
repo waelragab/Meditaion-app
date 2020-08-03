@@ -4,14 +4,14 @@
 }
 @font-face{
     font-family: montserratBold;
-    src: url("fonts/Montserrat-Bold.ttf");
+src: url("fonts/Montserrat-Bold.ttf");
 }
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-h1{
+h1{ 
     color: #010f1c;
 }
 body{ 
